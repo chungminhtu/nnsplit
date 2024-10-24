@@ -1,6 +1,6 @@
 ## Installation
 
-NNSplit for Javascript has [tractjs](https://github.com/bminixhofer/tractjs) as the only dependency.
+NNSplit for Javascript has [tractjs](https://github.com/chungminhtu/tractjs) as the only dependency.
 
 Install NNSplit with npm: 
 
@@ -13,7 +13,7 @@ npm install nnsplit
 
 ## Use
 
-The Javascript API has no method *.load(model_name)* to load a pretrained model. Instead the path to a model in your file system (in Node.js) or accessable via *fetch* (in the browser) has to be given as first argument to *NNSplit.new*. See [https://github.com/bminixhofer/nnsplit/tree/master/models](models) to download the `model.onnx` files for the pretrained models.
+The Javascript API has no method *.load(model_name)* to load a pretrained model. Instead the path to a model in your file system (in Node.js) or accessable via *fetch* (in the browser) has to be given as first argument to *NNSplit.new*. See [https://github.com/chungminhtu/nnsplit/tree/master/models](models) to download the `model.onnx` files for the pretrained models.
 
 ### Node.js
 
@@ -32,4 +32,4 @@ run()
 
 ### Browser
 
-NNSplit in the browser currently only works with a bundler and has to be imported asynchronously. API is the same as in Node.js. See [bindings/javascript/dev_server](https://github.com/bminixhofer/nnsplit/tree/master/bindings/javascript/dev_server) for a full example.
+NNSplit in the browser currently only works with a bundler and has to be imported asynchronously. API is the same as in Node.js. See [bindings/javascript/dev_server](https://github.com/chungminhtu/nnsplit/tree/master/bindings/javascript/dev_server) for a full example.

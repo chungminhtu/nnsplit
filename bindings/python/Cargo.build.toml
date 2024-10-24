@@ -3,7 +3,7 @@
 [package]
 name = "nnsplit"
 version = "0.5.8-post0"
-authors = ["Benjamin Minixhofer <bminixhofer@gmail.com>"]
+authors = ["Benjamin Minixhofer <chungminhtu@gmail.com>"]
 edition = "2018"
 
 [package.metadata.maturin]

@@ -4,7 +4,7 @@
       <h1 class="text-h2">NNSplit</h1>
       <iframe
         class="mt-1 mb-4"
-        src="https://ghbtns.com/github-btn.html?user=bminixhofer&repo=nnsplit&type=star&count=true&size=large"
+        src="https://ghbtns.com/github-btn.html?user=chungminhtu&repo=nnsplit&type=star&count=true&size=large"
         frameborder="0"
         scrolling="0"
         width="170"
@@ -46,7 +46,7 @@
       <h2 id="demo" class="text-h3 mt-5 mb-5">Demo</h2>
       <p class="body-1">
         Try NNSplit! This demo runs powered by
-        <a href="https://github.com/bminixhofer/tractjs">tractjs</a> in your
+        <a href="https://github.com/chungminhtu/tractjs">tractjs</a> in your
         browser so no internet connection is required once a model is loaded.
       </p>
 
@@ -63,7 +63,7 @@
       </p>
       <ul class="mb-5 body-1">
         <li>
-          <a href="https://github.com/bminixhofer/nnsplit/"
+          <a href="https://github.com/chungminhtu/nnsplit/"
             >NNSplit on Github</a
           >
         </li>

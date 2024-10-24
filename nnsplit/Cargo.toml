@@ -1,12 +1,12 @@
 [package]
 name = "nnsplit"
 version = "0.5.8"
-authors = ["Benjamin Minixhofer <bminixhofer@gmail.com>"]
+authors = ["Benjamin Minixhofer <chungminhtu@gmail.com>"]
 edition = "2018"
 
 description = "A tool to split text using a neural network. For sentence boundary detection, compound splitting and more."
-repository = "https://github.com/bminixhofer/nnsplit"
-homepage = "https://bminixhofer.github.io/nnsplit"
+repository = "https://github.com/chungminhtu/nnsplit"
+homepage = "https://chungminhtu.github.io/nnsplit"
 documentation = "https://docs.rs/nnsplit/"
 keywords = ["pytorch", "deep-learning", "machine-learning", "tokenizer", "sentencizer"]
 categories = ["text-processing", "science"]
