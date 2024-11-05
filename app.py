@@ -1,7 +1,7 @@
 from flask import Flask, request, jsonify
 from wtpsplit import SaT 
 app = Flask(__name__)
-sat = SaT("sat-3l", style_or_domain="ud", language="en")
+sat = SaT("sat-3l-sm", style_or_domain="ud", language="en")
 
 
 @app.route('/health', methods=['GET'])
